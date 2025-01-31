@@ -6,8 +6,8 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-/Frontend/node_modules
-/Frontend/build
+/frontend/node_modules
+/frontend/build
 
 node_modules
 dist
